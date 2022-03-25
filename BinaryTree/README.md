@@ -1,4 +1,11 @@
+## Folder ##
+This folder contain explanation about binary tree, implementation of a binary tree in python and coding interview questions using python and binary trees.
+
+- Check [implementation](https://github.com/mariarobertap/DataStructures/blob/main/BinaryTree/implementation.py)
+- Check [Coding Questions]
+
 ## What is a Binary Tree? ##
+
 
 A binary tree is made of nodes, where each node contains a "left" reference, a "right" reference, and a data element. The topmost node in the tree is called the root. Every node (excluding a root) in a tree is connected by a directed edge from exactly one other node.
 
