@@ -14,10 +14,10 @@ For example, we can store a list of items having the same data-type using the ar
 
 | Data Structure | Questions solved |Difficulty |
 | :---: | :---: | :---: |
-| [Linked List](https://github.com/mariarobertap/DataStructures/tree/main/LinkedList) | 0 | Easy/Medium |
+| [Linked List](https://github.com/mariarobertap/DataStructures/tree/main/LinkedList) | 5 | Easy/Medium |
 | [Binary Tree](https://github.com/mariarobertap/DataStructures/tree/main/BinaryTree) | 4 | Easy/Medium |
-| [Hash Map](https://github.com/mariarobertap/DataStructures/tree/main/HashMap) | 0 | Easy/Medium |
-| [Array](https://github.com/mariarobertap/DataStructures/tree/main/Array)| 0 | Easy/Medium|
+| [Hash Map](https://github.com/mariarobertap/DataStructures/tree/main/HashMap) | 4 | Easy/Medium |
+| [Array](https://github.com/mariarobertap/DataStructures/tree/main/Array)| 7 | Easy/Medium|
 
 
 
