@@ -1,5 +1,5 @@
 
-#141. Linked List Cycle
+#141. linked List Cycle
 
 #Link: https://leetcode.com/problems/linked-list-cycle/
 
