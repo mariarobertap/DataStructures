@@ -1,7 +1,12 @@
 #102. Binary Tree Level Order Traversal - LeetCode
 
 #Link: https://leetcode.com/problems/binary-tree-level-order-traversal/
+
 #Note: Use BSF algo to get all the nodes of each level of the binary tree
+
+#Big O notation: Time O(n): Memory: O(1)
+
+##########################################
 
 # Definition for a binary tree node.
 # class TreeNode(object):
