@@ -4,6 +4,9 @@
 
 #Note: Use DSF algo with a recursive solution to invert the subtrees
 
+#Big O notation: Time O(n): Memory: O(1)
+
+##########################################
 
 # Definition for a binary tree node.
 # class TreeNode(object):
