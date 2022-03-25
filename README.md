@@ -8,7 +8,7 @@ A data structure is a particular way of organizing data in a computer so that it
 For example, we can store a list of items having the same data-type using the array data structure.
 
 - Linked List
-- Binary Tree
+- [Binary Tree](https://github.com/mariarobertap/DataStructures/tree/main/BinaryTree)
 - Hash Map
 - Array
 
