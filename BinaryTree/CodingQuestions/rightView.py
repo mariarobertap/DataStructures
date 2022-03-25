@@ -4,6 +4,10 @@
 
 #Note: Use BSF algo to get all the right nodes of each level of the binary tree
 
+#Big O notation: Time O(n): Memory: O(1)
+
+##########################################
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
