@@ -1,9 +1,6 @@
 ## Folder ##
 This folder contain explanation about binary tree, implementation of a binary tree in python and coding interview questions using python and binary trees.
 
-- Check [implementation](https://github.com/mariarobertap/DataStructures/blob/main/BinaryTree/implementation.py)
-- Check [Coding Questions]
-
 ## What is a Binary Tree? ##
 
 
@@ -26,3 +23,13 @@ A node is a structure which may contain a value or condition. Each node in a tre
 
 ### What is a leaf? #
 Leaf is a node that does not contain children. Its the end of the binary tree.
+
+
+### Big O Notation #
+| Data Structure | Operation | Best Case | Worst Case|
+| :---: | :---: | :---: | :---: |
+| Binary Tree | Search | O(logn) | O(n) |
+| Binary Tree | Insert | O(logn) | O(n) |
+| Binary Tree | Delete | O(logn) | O(n) |
+| Binary Tree | Update | O(logn) | O(n) |
+
