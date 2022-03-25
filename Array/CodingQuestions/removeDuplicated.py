@@ -1,19 +1,29 @@
-"https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+#26. Remove Duplicates from Sorted Array
 
-def removeDuplicates(self, nums):
+#Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+#Note: 
+
+#Big O notation: Time O(n): Memory: O(1)
+
+#######################################
+
+class Solution(object):
+    def removeDuplicates(self, nums):
         
-    k = 0
+        k = 0
 
-    for i in range(len(nums)):
+        for i in range(len(nums)):
+    
+            if nums[i] != nums[k]:
+                k += 1
+                nums[k] = nums[i]
+                
 
-        if nums[i] != nums[k]:
-            k += 1
-            nums[k] = nums[i]
-            
-
-    return k+1
+        return k+1
         
 
-numsAux = [0,0,1,1,1,1,1,1,2,2,2,3,3,4,4,4,4]
-print(removeDuplicates(numsAux))
-        
+                    
+                    
+                    
+                
