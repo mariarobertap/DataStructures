@@ -1,3 +1,14 @@
+
+/*
+1. Two Sum
+
+#Link: https://leetcode.com/problems/two-sum/
+
+#Note: use a hash map to store the indices
+
+#Big O notation: Time O(n): Memory: O(n)
+
+*/
 func twoSum(nums []int, target int) []int {
     
     
